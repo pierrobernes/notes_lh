@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T13:46:34.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="rtayCOsrhkEA0wJe14BL" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T13:52:25.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ltMnvbEvL-uez_1v0UeV" version="14.4.4" type="github">
   <diagram id="oZFeqEb4DuBPikCs4jgm" name="Page-1">
     <mxGraphModel dx="9400" dy="3415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a5F3FK5_pizuLyTsk2zs-42" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;strokeColor=#3B3B3B;strokeWidth=3;fontSize=31;fontColor=#000000;opacity=20;align=left;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="860" width="2310" height="140" as="geometry" />
+          <mxGeometry x="-630" y="960" width="2310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-38" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;strokeColor=#3B3B3B;strokeWidth=3;fontSize=31;fontColor=#000000;opacity=20;align=left;fillColor=#94F7E5;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="710" width="2310" height="140" as="geometry" />
+          <mxGeometry x="-630" y="810" width="2310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-28" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;strokeColor=#3B3B3B;strokeWidth=3;fillColor=#1C209C;fontSize=22;fontColor=#000000;opacity=10;align=left;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-680" y="-1140" width="940" height="220" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-195" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;strokeColor=#3B3B3B;strokeWidth=3;fontSize=31;fontColor=#000000;opacity=20;align=left;fillColor=#ED97CE;" parent="1" vertex="1">
-          <mxGeometry x="-1110" y="550" width="2780" height="140" as="geometry" />
+          <mxGeometry x="-1110" y="223" width="2780" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-114" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;strokeWidth=3;fontSize=31;opacity=20;align=left;" parent="1" vertex="1">
           <mxGeometry x="-760" y="-790" width="1690" height="2100" as="geometry" />
@@ -170,13 +170,13 @@
           <mxGeometry x="350" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-90" value="1" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;fillColor=#EDA868;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="250" width="140" height="100" as="geometry" />
+          <mxGeometry x="-620" y="540" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-91" value="BUSINESS ANALYST" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFB570;opacity=10;" parent="1" vertex="1">
-          <mxGeometry x="-452.5" y="250" width="1172.5" height="100" as="geometry" />
+        <mxCell id="HutICp3ffsg-i04zgrZf-91" value="BUSINESS&lt;br&gt;ANALYST" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFB570;opacity=10;" parent="1" vertex="1">
+          <mxGeometry x="-452.5" y="540" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-92" value="" style="group;fontSize=29;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-570" y="260" width="64" height="50" as="geometry" />
+          <mxGeometry x="-570" y="550" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-93" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" parent="HutICp3ffsg-i04zgrZf-92" vertex="1">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
@@ -185,10 +185,10 @@
           <mxGeometry x="40" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-95" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-125" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="-125" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-96" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="350" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-100" value="Chapters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;fontSize=29;fontColor=#000000;opacity=20;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-570" y="-550" width="40" height="20" as="geometry" />
@@ -206,13 +206,13 @@
           <mxGeometry x="-860" y="-320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-117" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;fillColor=#7CAB62;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="413" width="140" height="100" as="geometry" />
+          <mxGeometry x="-620" y="677" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-118" value="PRODUCT &lt;br&gt;MANAGEMENT" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#97D077;opacity=10;" parent="1" vertex="1">
-          <mxGeometry x="-462.5" y="413" width="1172.5" height="100" as="geometry" />
+          <mxGeometry x="-462.5" y="677" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-119" value="" style="group;fontSize=29;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-570" y="423" width="64" height="50" as="geometry" />
+          <mxGeometry x="-570" y="687" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-120" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" parent="HutICp3ffsg-i04zgrZf-119" vertex="1">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
@@ -221,10 +221,10 @@
           <mxGeometry x="40" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-122" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-135" y="433" width="40" height="40" as="geometry" />
+          <mxGeometry x="-135" y="697" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-123" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="433" width="40" height="40" as="geometry" />
+          <mxGeometry x="340" y="697" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-124" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;fontSize=22;opacity=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="-705" y="-1240" width="2165" height="340" as="geometry" />
@@ -333,13 +333,13 @@
           <mxGeometry x="1010" y="-160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-188" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=center;fontStyle=1;sketch=1;opacity=50;fillColor=#9E6489;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="570" width="140" height="100" as="geometry" />
+          <mxGeometry x="-620" y="243" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-189" value="SD OPS" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#B5739D;" parent="1" vertex="1">
-          <mxGeometry x="-462.5" y="570" width="1172.5" height="100" as="geometry" />
+          <mxGeometry x="-462.5" y="243" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-190" value="" style="group;fontSize=29;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-570" y="580" width="64" height="50" as="geometry" />
+          <mxGeometry x="-570" y="253" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-191" value="Raoul" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" parent="HutICp3ffsg-i04zgrZf-190" vertex="1">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
@@ -348,10 +348,10 @@
           <mxGeometry x="40" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-193" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-135" y="590" width="40" height="40" as="geometry" />
+          <mxGeometry x="-135" y="263" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-194" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="590" width="40" height="40" as="geometry" />
+          <mxGeometry x="340" y="263" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-196" value="Alex" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1145" y="-160" width="40" height="40" as="geometry" />
@@ -360,10 +360,10 @@
           <mxGeometry x="1280" y="-160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-198" value="Operations &amp;amp;&amp;nbsp;&lt;br&gt;Customer care" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontSize=29;fontColor=#000000;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="550" width="70" height="60" as="geometry" />
+          <mxGeometry x="1500" y="223" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-199" value="Pool" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontSize=29;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="690" y="585" width="46" height="50" as="geometry" />
+          <mxGeometry x="690" y="258" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-1" value="Product Lead" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-492.5" y="-770" width="40" height="40" as="geometry" />
@@ -426,13 +426,13 @@
           <mxGeometry x="1955" y="205" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-21" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;strokeColor=none;fillColor=#81D6C7;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="726" width="140" height="100" as="geometry" />
+          <mxGeometry x="-610" y="826" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-22" value="MARKETING" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#8DEBDA;opacity=10;" vertex="1" parent="1">
-          <mxGeometry x="-462.5" y="726" width="1172.5" height="100" as="geometry" />
+          <mxGeometry x="-452.5" y="826" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-23" value="" style="group;fontSize=29;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-570" y="736" width="64" height="50" as="geometry" />
+          <mxGeometry x="-560" y="836" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-24" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" vertex="1" parent="a5F3FK5_pizuLyTsk2zs-23">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
@@ -441,19 +441,19 @@
           <mxGeometry x="40" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-26" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="746" width="40" height="40" as="geometry" />
+          <mxGeometry x="-125" y="846" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-27" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="746" width="40" height="40" as="geometry" />
+          <mxGeometry x="350" y="846" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-31" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;strokeColor=none;fillColor=#F0D790;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="880" width="140" height="100" as="geometry" />
+          <mxGeometry x="-610" y="980" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-32" value="SALES" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFE599;opacity=10;" vertex="1" parent="1">
-          <mxGeometry x="-462.5" y="880" width="1172.5" height="100" as="geometry" />
+          <mxGeometry x="-452.5" y="980" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-33" value="" style="group;fontSize=29;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-570" y="890" width="64" height="50" as="geometry" />
+          <mxGeometry x="-560" y="990" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-34" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" vertex="1" parent="a5F3FK5_pizuLyTsk2zs-33">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
@@ -462,34 +462,34 @@
           <mxGeometry x="40" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-36" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="900" width="40" height="40" as="geometry" />
+          <mxGeometry x="-125" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-37" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="900" width="40" height="40" as="geometry" />
+          <mxGeometry x="350" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-40" value="Company activities" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;glass=1;sketch=1;fillColor=#94F7E5;gradientColor=none;fontSize=29;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="1504.81" y="725" width="60.39" height="72" as="geometry" />
+          <mxGeometry x="1514.81" y="825" width="60.39" height="72" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-43" value="Company activities" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;glass=1;sketch=1;fillColor=#94F7E5;gradientColor=none;fontSize=29;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="1504.81" y="879" width="60.39" height="72" as="geometry" />
+          <mxGeometry x="1514.81" y="979" width="60.39" height="72" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-46" value="Infrastructure" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.roles;glass=1;sketch=1;fontSize=29;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="558" width="80" height="94" as="geometry" />
+          <mxGeometry x="-1060" y="231" width="80" height="94" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-47" value="PO : Raoul" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="570" width="40" height="40" as="geometry" />
+          <mxGeometry x="-870" y="243" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-48" value="Project management" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-670" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-50" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=50;strokeColor=none;fillColor=#B80000;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="1070" width="140" height="100" as="geometry" />
+          <mxGeometry x="-620" y="383" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a5F3FK5_pizuLyTsk2zs-51" value="AGILE COACH" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#C90000;" vertex="1" parent="1">
-          <mxGeometry x="-462.5" y="1070" width="1832.5" height="100" as="geometry" />
+        <mxCell id="a5F3FK5_pizuLyTsk2zs-51" value="AGILE COACH" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-462.5" y="383" width="1832.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-52" value="" style="group;fontSize=29;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-570" y="1080" width="64" height="50" as="geometry" />
+          <mxGeometry x="-570" y="393" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-53" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" vertex="1" parent="a5F3FK5_pizuLyTsk2zs-52">
           <mxGeometry y="10" width="40" height="40" as="geometry" />
@@ -498,10 +498,10 @@
           <mxGeometry x="40" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-55" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="1090" width="40" height="40" as="geometry" />
+          <mxGeometry x="-135" y="403" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-56" value="?" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1090" width="40" height="40" as="geometry" />
+          <mxGeometry x="340" y="403" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
