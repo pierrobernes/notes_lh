@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T07:29:41.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="8fUlM6syBXhVhlFEU2tv" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T08:58:01.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="g_wCbbhPqyE7sa4gTkdi" version="14.4.4" type="github">
   <diagram id="oZFeqEb4DuBPikCs4jgm" name="Page-1">
-    <mxGraphModel dx="8215" dy="2827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="9400" dy="3415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,6 +478,9 @@
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-47" value="PO : Raoul" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-870" y="570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a5F3FK5_pizuLyTsk2zs-48" value="Project management" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-670" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
