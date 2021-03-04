@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T13:52:25.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ltMnvbEvL-uez_1v0UeV" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T14:44:54.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="_Ps-oE2z4ffkGB0RaU__" version="14.4.4" type="github">
   <diagram id="oZFeqEb4DuBPikCs4jgm" name="Page-1">
     <mxGraphModel dx="9400" dy="3415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -34,9 +34,6 @@
         <mxCell id="DUvPz9e66lcGzT_nXJd--4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="-610" width="450" height="1830" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-230" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-4" value="SQUAD 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=29;" parent="1" vertex="1">
           <mxGeometry x="-185" y="-580" width="160" height="20" as="geometry" />
         </mxCell>
@@ -52,31 +49,31 @@
         <mxCell id="HutICp3ffsg-i04zgrZf-19" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=29;align=center;fontStyle=1;sketch=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-620" y="-480" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-20" value="BACKEND" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#64BBE2;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-20" value="BACKEND" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#64BBE2;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-480" width="1180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-21" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=29;align=center;fontStyle=1;sketch=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-620" y="-340" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-22" value="API GW" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;fillColor=#F8C382;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-22" value="API GW" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;fillColor=#F8C382;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-340" width="1180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-23" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=29;align=center;fontStyle=1;sketch=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-620" y="-190" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-24" value="FRONTEND" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#F08E81;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-24" value="FRONTEND" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#F08E81;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-190" width="1180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-25" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-620" y="-40" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-26" value="DEVOPS" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#5D7F99;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-26" value="DEVOPS" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#5D7F99;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-452.5" y="-40" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-27" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;fillColor=#12AAB5;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-620" y="100" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-28" value="QUALITY &lt;br&gt;ASSURANCE" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#61C6CE;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-28" value="QUALITY &lt;br&gt;ASSURANCE" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;fillColor=#61C6CE;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-452.5" y="100" width="1822.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-30" value="Carlos" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=29;fontColor=#000000;sketch=1;" parent="1" vertex="1">
@@ -172,7 +169,7 @@
         <mxCell id="HutICp3ffsg-i04zgrZf-90" value="1" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;strokeColor=none;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;fillColor=#EDA868;" parent="1" vertex="1">
           <mxGeometry x="-620" y="540" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-91" value="BUSINESS&lt;br&gt;ANALYST" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFB570;opacity=10;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-91" value="BUSINESS&lt;br&gt;ANALYST" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFB570;opacity=10;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-452.5" y="540" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-92" value="" style="group;fontSize=29;" parent="1" vertex="1" connectable="0">
@@ -208,7 +205,7 @@
         <mxCell id="HutICp3ffsg-i04zgrZf-117" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;fillColor=#7CAB62;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-620" y="677" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-118" value="PRODUCT &lt;br&gt;MANAGEMENT" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#97D077;opacity=10;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-118" value="PRODUCT &lt;br&gt;MANAGEMENT" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#97D077;opacity=10;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-462.5" y="677" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-119" value="" style="group;fontSize=29;" parent="1" vertex="1" connectable="0">
@@ -335,7 +332,7 @@
         <mxCell id="HutICp3ffsg-i04zgrZf-188" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=center;fontStyle=1;sketch=1;opacity=50;fillColor=#9E6489;" parent="1" vertex="1">
           <mxGeometry x="-620" y="243" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HutICp3ffsg-i04zgrZf-189" value="SD OPS" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#B5739D;" parent="1" vertex="1">
+        <mxCell id="HutICp3ffsg-i04zgrZf-189" value="SD OPS" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#B5739D;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-462.5" y="243" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HutICp3ffsg-i04zgrZf-190" value="" style="group;fontSize=29;" parent="1" vertex="1" connectable="0">
@@ -428,7 +425,7 @@
         <mxCell id="a5F3FK5_pizuLyTsk2zs-21" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;strokeColor=none;fillColor=#81D6C7;" vertex="1" parent="1">
           <mxGeometry x="-610" y="826" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a5F3FK5_pizuLyTsk2zs-22" value="MARKETING" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#8DEBDA;opacity=10;" vertex="1" parent="1">
+        <mxCell id="a5F3FK5_pizuLyTsk2zs-22" value="MARKETING" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#8DEBDA;opacity=10;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-452.5" y="826" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-23" value="" style="group;fontSize=29;" vertex="1" connectable="0" parent="1">
@@ -449,7 +446,7 @@
         <mxCell id="a5F3FK5_pizuLyTsk2zs-31" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=10;strokeColor=none;fillColor=#F0D790;" vertex="1" parent="1">
           <mxGeometry x="-610" y="980" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a5F3FK5_pizuLyTsk2zs-32" value="SALES" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFE599;opacity=10;" vertex="1" parent="1">
+        <mxCell id="a5F3FK5_pizuLyTsk2zs-32" value="SALES" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FFE599;opacity=10;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-452.5" y="980" width="1172.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-33" value="" style="group;fontSize=29;" vertex="1" connectable="0" parent="1">
@@ -485,7 +482,7 @@
         <mxCell id="a5F3FK5_pizuLyTsk2zs-50" value="" style="shape=mxgraph.infographic.parallelogram;dx=5;html=1;shadow=0;fontSize=29;fontColor=#FFFFFF;align=center;fontStyle=1;sketch=1;opacity=50;strokeColor=none;fillColor=#B80000;" vertex="1" parent="1">
           <mxGeometry x="-620" y="383" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a5F3FK5_pizuLyTsk2zs-51" value="AGILE COACH" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="a5F3FK5_pizuLyTsk2zs-51" value="AGILE COACH" style="shape=mxgraph.infographic.parallelogram;dx=5;;html=1;strokeColor=#9673a6;shadow=0;fontSize=29;align=left;spacingLeft=10;fontStyle=1;fillColor=#FF6666;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-462.5" y="383" width="1832.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a5F3FK5_pizuLyTsk2zs-52" value="" style="group;fontSize=29;" vertex="1" connectable="0" parent="1">
