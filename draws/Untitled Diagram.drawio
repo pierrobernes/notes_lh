@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2021-03-18T09:11:53.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HKjyW0VUkXUoiddwuFaQ" version="14.4.4" type="github">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+    <mxGraphModel dx="253" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-772" value="Label" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-408.78" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-773" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1550" y="-630" width="450" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-767" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.25;endAngle=0.9983247466822763;arcWidth=0.28;rotation=-180;" vertex="1" parent="SEQHYM2s3cJmgEnnsGSw-773">
+          <mxGeometry x="115.07934233223367" width="311.43065766776635" height="304.7571428571429" as="geometry" />
+        </mxCell>
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-768" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.2462113124122141;endAngle=0.7563628056739959;arcWidth=0.6;rotation=90;" vertex="1" parent="SEQHYM2s3cJmgEnnsGSw-773">
+          <mxGeometry x="200.7942022407932" y="261.42857142857144" width="142.85809984759922" height="142.85714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-769" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.24832474668227633;endAngle=0.7563628056739959;arcWidth=0.39;rotation=90;" vertex="1" parent="SEQHYM2s3cJmgEnnsGSw-773">
+          <mxGeometry x="155.07961028956146" y="261.42857142857144" width="228.57295975615878" height="228.5714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-770" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.5018723247166236;endAngle=0.7563628056739959;arcWidth=0.55;rotation=90;direction=west;" vertex="1" parent="SEQHYM2s3cJmgEnnsGSw-773">
+          <mxGeometry x="7.935767446534229" y="71.5857142857143" width="142.85809984759922" height="158.72857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="SEQHYM2s3cJmgEnnsGSw-775" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="-270" as="targetPoint" />
+            <mxPoint x="2000" y="-245.71000000000004" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
