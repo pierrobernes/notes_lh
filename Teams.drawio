@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T13:57:42.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.0" etag="a0KvGiG88EQ6wrmO7sFn" type="github"><diagram id="KpyqALUePfvtARE-_bse">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T14:30:14.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qqgtsB0elpVDbGi6f18I" version="14.5.0" type="github">
+  <diagram id="KpyqALUePfvtARE-_bse" name="Page-1">
+    <mxGraphModel dx="1422" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MxX23h1xWTwwNCveNriA-1" value="LH1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxX23h1xWTwwNCveNriA-2" value="Core + Agora" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxX23h1xWTwwNCveNriA-3" value="MarketPlace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxX23h1xWTwwNCveNriA-4" value="Axway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxX23h1xWTwwNCveNriA-6" value="DevOps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxX23h1xWTwwNCveNriA-7" value="SDOPS (customer Care + onboarding + internal IT + Hosting&amp;nbsp; ...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxX23h1xWTwwNCveNriA-8" value="Secu + SecDevOps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
