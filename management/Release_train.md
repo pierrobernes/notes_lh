@@ -121,13 +121,36 @@ Architects and engineering walk the rooms to ensure plan work properly fro
 
 Agenda example : 
 
+DAY 1
+
 1. Kick-off by RTE (why we are here ? what changes)
 2. Product managers share vision and how business solution address customer needs & gaps
 3. Architecture vision - share the technical changes, improvements
-4. RTE shares on planning & process to follow
-    * 1 sheet for features
-    * 1 sheet for risks & dependencies
-5.
+4. RTE shares on planning & process to follow in team breakouts
+    Before making estimates - assess team velocity & days off for the team
+    1 sheet of paper per iteration
+    * 1 part for features
+    * 1 part for risks & dependencies
+    Team estimate capacity & velocity for the next sprint and user stories
+4'. RTE animates the scrum of scrum in order to make sure the following questions are answered : 
+* Capactity identified for each iteration in the PI
+* First 2 iterations already planned with estimated US
+* Dependencies identified
+* Trade-off with PO & Tech Lead already done
+* Program risk
+* Are you able to write down your PI objectives
+5. Draft plan Review
+* Each team present his PI objectives, risks & dependencie
+6. Management review 
+* Identify risks and issues that would prevent team to progress in the PI
+* Management migth adjust plans according to input
+* RTE facilitates
+
+DAY 2
+
+1. Draft plan review & planning adjustement
+Management presents adjustements to PI and / or changes in resources
+
 
 
 
@@ -139,3 +162,10 @@ Fixed schedule
 
 1 wagon per discipline
 
+Glossary
+
+https://www.scaledagileframework.com/glossary/
+
+Value streams
+
+https://www.scaledagileframework.com/value-streams/?_ga=2.29046268.1939461.1616658375-1251102670.1616049795

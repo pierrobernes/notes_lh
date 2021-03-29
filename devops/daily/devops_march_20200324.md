@@ -4,12 +4,31 @@
 
 Questions : 
 * All : News from SIX?
-* Leo : 
-* Thomas : Methodology proposed for the Ansible deployment replacement?  Assumptions OK ? Path still OK?
+* Leo : Dependencies for Camunda?
+* Thomas : Progress on K8?
 * Sebastien : 
-    * Status STG?
     * Status LH1 SIX?
     * Applications & Registration issues.
 
-Questions : 
-* Thomass
+Information : 
+* New for SIX : reconfiguration of network
+* Git Cloud
+* Security hardening for MP
+
+Thomas
+
+Flux V2 - Kuxtomize
+    * ISTIO upgrade
+Apim Client
+    * DemoERBK deployed but the template contains values not defined in the Swagger -> Which is not allowed by the apim-client
+
+Leo
+
+Stefan support to install plugin
+Carlos support for LH1 image deployment
+Configure cluster
+
+Sebastien
+
+Issue with LH1 - configuration in Swagger 
+    * Change environment
